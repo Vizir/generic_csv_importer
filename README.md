@@ -1,6 +1,4 @@
-header + csv_line poderia ser uma row
-
-poderia importar xls tambem
+A csv importer gem.
 
 
 ## Usage**
