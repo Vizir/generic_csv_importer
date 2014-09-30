@@ -1,7 +1,7 @@
 A csv importer gem.
 
 
-## Usage**
+## Usage
 
 ```ruby
 model_name = "Person"
@@ -12,7 +12,7 @@ g.import(csv_file, model_name)
 ```
 
 
-## CSV example**
+## CSV example
 
 Person belongs to Class
 
