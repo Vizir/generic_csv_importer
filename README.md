@@ -5,7 +5,7 @@ A csv importer gem.
 
 ```ruby
 model_name = "Person"
-csv_file = CSV.read("/project/script/csv/general_index/Person.csv", {:col_sep => ",", :headers => true} )
+csv_file = CSV.read("/home/user/person.csv", {:col_sep => ",", :headers => true} )
 
 g = GenericCsvImporter.new
 g.import(csv_file, model_name)
