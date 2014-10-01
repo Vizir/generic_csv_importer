@@ -26,7 +26,7 @@ Mary,8,15
 
 ## Contributing
 
-1. Fork it ( https://github.com/Vizir/carnival_devise_views/fork )
+1. Fork it ( https://github.com/Vizir/generic_csv_importer/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
